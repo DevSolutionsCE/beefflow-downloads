@@ -9,7 +9,7 @@ Este repositório guarda **só os arquivos de instalação** (em [Releases](http
 - **Versão mais recente:** [BeefFlow-Setup-x64.exe](https://github.com/DevSolutionsCE/beefflow-downloads/releases/latest/download/BeefFlow-Setup-x64.exe)
 - **Todas as versões e notas:** [Releases](https://github.com/DevSolutionsCE/beefflow-downloads/releases)
 
-> **Versão piloto (0.2.0-piloto.4).** Estamos acompanhando as primeiras lojas de perto. Fale com a DevSolutions antes de instalar para combinarmos a implantação: WhatsApp (85) 99615-9544.
+> **Versão piloto (0.2.0-piloto.5).** Estamos acompanhando as primeiras lojas de perto. Fale com a DevSolutions antes de instalar para combinarmos a implantação: WhatsApp (85) 99615-9544.
 
 ## Requisitos do servidor
 
